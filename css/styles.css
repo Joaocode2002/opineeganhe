@@ -62,7 +62,7 @@ body {
   .valor-box {
     width: 130px;
     height: 25px;
-    background-color: #4285F4;
+    background-color: #4be970;
 
     border-radius: 12px;
     padding: 10px;
@@ -231,7 +231,7 @@ body {
   }
 
   .square-button.active {
-    background-color: #4285F4;
+    background-color: #4be970;
 
     transform: scale(1.1);
   }
@@ -315,7 +315,7 @@ body {
   }
 
   .desbloquear-button {
-    background-color: #4285F4;
+    background-color: #4be970;
 
     width: 90%;
     border-radius: 8px;
@@ -475,7 +475,7 @@ body {
   }
   
   .prosseguir-button {
-    background-color: #4285F4;
+    background-color: #4be970;
     width: 90%;
     border-radius: 12px;
     color: #fff;
@@ -804,7 +804,7 @@ body {
   .answer {
     padding: 16px;
     display: none;
-    background-color: #4285F4;
+    background-color: #4be970;
     color: white;
   }
   .answer.active {
@@ -817,7 +817,7 @@ body {
     font-size: 28px;
     font-weight: bold;
     margin-bottom: 25px;
-    color: #4285F4;
+    color: #4be970;
     text-align: center;
   }
 
@@ -849,7 +849,7 @@ body {
   }
   
   .rating-button.active {
-    background-color: #4285F4; /* Cor verde quando clicado */
+    background-color: #4be970; /* Cor verde quando clicado */
     color: white;
   }
 
@@ -866,7 +866,7 @@ body {
   
 
   .enviarCodigo {
-    background-color: #4285F4;
+    background-color: #4be970;
 
     width: 93%;
     padding: 10px;
